@@ -10,7 +10,7 @@ import streamlit as st
 
 st.markdown("# Welcome to my LinkIn user prediction app!")
 
-st.markdown("### Please enter some information below and select predict!")
+st.markdown("#### Please enter some features below to see if someone is a LinkIn user")
 
 def clean_sm (x):
     x = np.where(x == 1,
