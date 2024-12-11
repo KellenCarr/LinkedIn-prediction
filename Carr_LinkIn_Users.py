@@ -85,7 +85,7 @@ f2 = st.selectbox("Select your highest level of education:",
                         "Some college, no degree",
                         "Two-year associates degree from college or university",
                         "Four-year college or university degree / Bachelor's degree",
-                        "Some postgraduate schooling, no postgraduate degreee"
+                        "Some postgraduate schooling, no post graduate degreee",
                         "Postgraduate or professional degree, including master's, doctorate, medical, or law"])
 
 if f2 == "Less than highschool":
